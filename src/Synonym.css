@@ -4,6 +4,8 @@
 }
 
 .Synonym li {
+  font-size: 13px;
   display: inline-block;
-  padding-right: 15px;
+  padding-right: 10px;
+  line-height: 1;
 }
