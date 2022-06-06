@@ -11,7 +11,17 @@ function App() {
         <Dictionary defaultKeyword="sunset" />
       </main>
       <footer className="App-footer">
-        <small>Coded by Lynlee Anderson</small>
+        <small>
+          <a
+            href="https://github.com/Lynlee21/dictionary-project"
+            target="_blank"
+            id="github"
+            rel="noreferrer"
+          >
+            Open-source code
+          </a>{" "}
+          by Lynlee Anderson
+        </small>
       </footer>
     </div>
   );
